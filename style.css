@@ -1,0 +1,29 @@
+body {
+
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+
+    text-align: center;
+    color: #666666;
+    padding: 1.5%;
+    background-color: rgb(240, 240, 240);
+    height: 15%;
+    margin: 0;
+
+}
+
+.container_graficos {
+    padding-top: 1%;
+    display: flex;
+    justify-content: center;
+}
+
+.grafico {
+
+    position: relative;
+    height: 50vh;
+    width: 45vw;
+}
